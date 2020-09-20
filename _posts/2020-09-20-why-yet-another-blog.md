@@ -1,3 +1,8 @@
+---
+title: "Yet Another Blog? Why? (Or: You'll Be Fine)"
+date: 2020-09-20
+---
+
 <p>Yet another blog? Why?</p>
 <p>I returned to programming recently after years away, and it isn't the first time I tried to do so. I tried in 2014 with a diploma in game development (which I completed), and in 2017-18 with a series of W3C and Mooc courses (most finished, but I didn't bother with the certificates). In both cases I got back to coding competency in at least a couple of languages, but never went further. </p>
 <p>Why? A few reasons. To be honest, inertia was part of it because I simply didn't need the money that badly. Some job in my other fields of expertise would come along, and it was easy to take the opportunity in front of me and put programming on the back burner.</p>
